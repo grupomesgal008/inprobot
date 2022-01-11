@@ -19,9 +19,11 @@
             <div class="row align-items-center">
                 <div class="col-12 politicas_pie">
                     <p>
-                        © Copyright 2021 |
+                        © Copyright 2022
+                        <!-- | -->
                         <!-- <span class="oculto"><a href="<?php echo base_url(); ?>es/aviso_legal">Aviso legal</a> -->
-                        | </span>
+                        <!-- |  -->
+                        </span>
                         <!-- <a href="<?php echo base_url(); ?>es/politica_de_privacidad">Política de privacidad</a> -->
                     </p>
                 </div>

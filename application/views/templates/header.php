@@ -12,7 +12,10 @@
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/fonts/icomoon/style.css">
 	<!-- Fuente Quicksand -->
 	<link href="https://fonts.googleapis.com/css?family=Quicksand:400,600,700&display=swap" rel="stylesheet">
+	<!-- Fuente Cambo -->
+	<link href="https://fonts.googleapis.com/css?family=Cambo|Lato:400,700&display=swap" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	
 	<!-- jQuery CDN -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 	<!-- Font Awesome JS -->
@@ -52,11 +55,11 @@
 						<div class="d-flex mr-auto">
 							<a href="#" class="d-flex align-items-center mr-4">
 								<span class="icon-envelope mr-2"></span>
-								<span class="d-none d-md-inline-block">info@domain.com</span>
+								<span class="d-none d-md-inline-block">eip4@estypro.es</span>
 							</a>
 							<a href="#" class="d-flex align-items-center mr-auto">
 								<span class="icon-phone mr-2"></span>
-								<span class="d-none d-md-inline-block">+1 234 4567 8910</span>
+								<span class="d-none d-md-inline-block">(+34) 953 295002</span>
 							</a>
 						</div>
 					</div>
@@ -77,7 +80,7 @@
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-2">
-						<h1 class="my-0 site-logo"><a href="index.html">Brand</a></h1>
+						<h1 class="my-0 site-logo"><a href="<?php echo base_url(); ?>">LOGO</a></h1>
 					</div>
 					<div class="col-10">
 						<nav class="site-navigation text-right" role="navigation">
@@ -85,9 +88,10 @@
 								<div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
 
 								<ul class="site-menu main-menu js-clone-nav d-none d-lg-block">
-									<li class="active"><a href="#home-section" class="nav-link">Home</a></li>
-									<li><a href="#classes-section" class="nav-link">Classes</a></li>
-									<li class="has-children">
+									<!-- <li class="active"><a href="#home-section" class="nav-link">Inicio</a></li> -->
+									<li><a href="<?php echo base_url(); ?>es/proyectos_industriales" class="nav-link">Proyectos Industriales</a></li>
+									<li><a href="<?php echo base_url(); ?>" class="nav-link">Urbanismo y Licencias</a></li>
+									<!-- <li class="has-children">
 										<a href="#" class="nav-link">Pages</a>
 										<ul class="dropdown arrow-top">
 											<li><a href="#" class="nav-link">Team</a></li>
@@ -102,11 +106,11 @@
 												</ul>
 											</li>
 										</ul>
-									</li>
-									<li><a href="#about-section" class="nav-link">About</a></li>
-									<li><a href="#events-section" class="nav-link">Events</a></li>
-									<li><a href="#gallery-section" class="nav-link">Gallery</a></li>
-									<li><a href="#contact-section" class="nav-link">Contact</a></li>
+									</li> -->
+									<li><a href="<?php echo base_url(); ?>" class="nav-link">FDS</a></li>
+									<li><a href="<?php echo base_url(); ?>" class="nav-link">Diseño Mecánico</a></li>
+									<!-- <li><a href="#gallery-section" class="nav-link">Gallery</a></li> -->
+									<li><a href="<?php echo base_url(); ?>" class="nav-link">Contacto</a></li>
 								</ul>
 							</div>
 						</nav>

@@ -31,10 +31,10 @@ class Es extends CI_Controller
 		$this->load->view('es/index');
 		$this->load->view('templates/footer');
 	}
-	public function blog()
+	public function proyectos_industriales()
 	{
 		$this->load->view('templates/header');
-		$this->load->view('es/blog');
+		$this->load->view('es/proyectos_industriales');
 		$this->load->view('templates/footer');
 	}
 }

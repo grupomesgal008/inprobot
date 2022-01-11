@@ -45,5 +45,10 @@
 <!-- Fontawesome -->
 <script src="https://kit.fontawesome.com/b22df7fc9e.js" crossorigin="anonymous"></script>
 <!-- Scripts -->
+
+
+<script src="<?php echo base_url(); ?>assets/js/jquery-3.3.1.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/js/popper.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/js/jquery.sticky.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/main.js"></script>
-<!-- <script src="<?php echo base_url(); ?>assets/js/popper.js"></script> -->

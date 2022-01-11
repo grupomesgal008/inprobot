@@ -1,0 +1,55 @@
+/*limpia los margenes y paddings */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* ---- FUENTES PERSONALIZADAS ---- */
+@font-face {
+  font-family: "NexaRegular";
+  src: url("../fonts/NexaRegular.otf");
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  background: #5B6670;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: #E5004E50;
+  border-radius: 10px;
+  /* Handle on hover */
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #0055b8;
+}
+
+/* ---- HEADER ---- */
+header {
+  background: #fff;
+  background-size: cover;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 10000;
+  box-shadow: 0 0 40px -10px rgba(91, 102, 112, 0.5);
+}
+
+#iframe_blog {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 207.52px;
+}/*# sourceMappingURL=estilos.css.map */

@@ -2,19 +2,17 @@
 <html lang="es">
 
 <head>
-	<title>123emprende</title>
+	<title>Inprobot</title>
 	<!-- etiquetas meta -->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, shrink-to-fit=no">
 	<!-- Fuentes -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<!-- Fuente Mulish -->
-	<link href="https://fonts.googleapis.com/css2?family=Imbue:wght@100;200;300;400&family=Mulish:ital,wght@0,200;0,300;0,400;0,700;0,900;1,200;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-	<!-- Fuente Poppins -->
-	<link href="https://fonts.googleapis.com/css2?family=Imbue:wght@100;200;300;400&family=Mulish:ital,wght@0,200;0,300;0,400;0,700;0,900;1,200;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,400;0,700;1,100;1,200;1,400;1,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/fonts/icomoon/style.css">
+	<!-- Fuente Quicksand -->
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:400,600,700&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
 	<!-- jQuery CDN -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 	<!-- Font Awesome JS -->
@@ -27,109 +25,107 @@
 	<!-- Popper.JS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
 	<!-- Bootstrap JS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
 	<!-- CSS -->
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/estilos.css">
-	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/header.css">
-
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/style.css">
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/owl.carousel.min.css">
 </head>
 
 <body>
-	<section class="ftco-section">
-		<!-- <div class="container">
-			<div class="row justify-content-center">
-				<div class="col-md-6 text-center mb-5">
-					<h2 class="heading-section">Website menu #07</h2>
-				</div>
+	<div class="site-mobile-menu site-navbar-target">
+		<div class="site-mobile-menu-header">
+			<div class="site-mobile-menu-close mt-3">
+				<span class="icon-close2 js-menu-toggle"></span>
 			</div>
-		</div> -->
+		</div>
+		<div class="site-mobile-menu-body"></div>
+	</div> <!-- .site-mobile-menu -->
 
-		<div class="container-fluid px-md-5">
-			<div class="row justify-content-between" style="align-items: center;">
-				<div class="col-md-8 order-md-last">
-					<div class="row" style="align-items: center;">
-						<div class="col-md-6 text-center">
-							<a class="navbar-brand" href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/img/icons/logotipo-principal.svg" alt="Logo" width="250"></a>
-						</div>
-						<div class="col-md-6 d-md-flex justify-content-end mb-md-0 mb-3">
-							<form action="#" class="searchform order-lg-last">
-								<div class="form-group d-flex">
-									<input type="text" class="form-control pl-3" placeholder="¿Qué estás buscando?">
-									<button type="submit" placeholder="" class="form-control search"><span class="fa fa-search"></span></button>
-								</div>
-							</form>
+
+	<div class="site-navbar-wrap">
+		<div class="site-navbar-top">
+			<div class="container py-3">
+				<div class="row align-items-center">
+					<div class="col-6">
+						<div class="d-flex mr-auto">
+							<a href="#" class="d-flex align-items-center mr-4">
+								<span class="icon-envelope mr-2"></span>
+								<span class="d-none d-md-inline-block">info@domain.com</span>
+							</a>
+							<a href="#" class="d-flex align-items-center mr-auto">
+								<span class="icon-phone mr-2"></span>
+								<span class="d-none d-md-inline-block">+1 234 4567 8910</span>
+							</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-4 d-flex">
-					<div class="social-media">
-						<p class="mb-0 d-flex">
-							<a href="https://www.facebook.com/123emprende" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
-							<a href="https://twitter.com/123emprende" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
-							<a href="https://www.linkedin.com/company/10955858" class="d-flex align-items-center justify-content-center"><span class="fa fa-linkedin"><i class="sr-only">LinkedIn</i></span></a>
-							<a href="https://www.instagram.com/123emprende" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-							<a href="https://www.youtube.com/channel/UCft2IRTJifchIYjlu-JHs4Q" class="d-flex align-items-center justify-content-center"><span class="fa fa-youtube"><i class="sr-only"></i></span></a>
-						</p>
+					<div class="col-6 text-right">
+						<div class="mr-auto">
+							<a href="#" class="p-2 pl-0"><span class="icon-twitter"></span></a>
+							<a href="#" class="p-2 pl-0"><span class="icon-facebook"></span></a>
+							<a href="#" class="p-2 pl-0"><span class="icon-linkedin"></span></a>
+							<a href="#" class="p-2 pl-0"><span class="icon-instagram"></span></a>
+						</div>
+
 					</div>
 				</div>
 			</div>
 		</div>
-		<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-			<div class="container-fluid">
 
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="fa fa-bars"></span> Menu
-				</button>
-				<div class="collapse navbar-collapse" id="ftco-nav">
-					<ul class="navbar-nav m-auto">
-						<li class="nav-item"><a href="#" class="nav-link">Home</a></li>
-						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Page</a>
-							<div class="dropdown-menu" aria-labelledby="dropdown04">
-								<a class="dropdown-item" href="#">Page 1</a>
-								<a class="dropdown-item" href="#">Page 2</a>
-								<a class="dropdown-item" href="#">Page 3</a>
-								<a class="dropdown-item" href="#">Page 4</a>
+		<div class="site-navbar site-navbar-target js-sticky-header">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-2">
+						<h1 class="my-0 site-logo"><a href="index.html">Brand</a></h1>
+					</div>
+					<div class="col-10">
+						<nav class="site-navigation text-right" role="navigation">
+							<div class="container">
+								<div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+
+								<ul class="site-menu main-menu js-clone-nav d-none d-lg-block">
+									<li class="active"><a href="#home-section" class="nav-link">Home</a></li>
+									<li><a href="#classes-section" class="nav-link">Classes</a></li>
+									<li class="has-children">
+										<a href="#" class="nav-link">Pages</a>
+										<ul class="dropdown arrow-top">
+											<li><a href="#" class="nav-link">Team</a></li>
+											<li><a href="#" class="nav-link">Pricing</a></li>
+											<li><a href="#" class="nav-link">FAQ</a></li>
+											<li class="has-children">
+												<a href="#">More Links</a>
+												<ul class="dropdown">
+													<li><a href="#">Menu One</a></li>
+													<li><a href="#">Menu Two</a></li>
+													<li><a href="#">Menu Three</a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<li><a href="#about-section" class="nav-link">About</a></li>
+									<li><a href="#events-section" class="nav-link">Events</a></li>
+									<li><a href="#gallery-section" class="nav-link">Gallery</a></li>
+									<li><a href="#contact-section" class="nav-link">Contact</a></li>
+								</ul>
 							</div>
-						</li>
-						<li class="nav-item"><a href="#" class="nav-link">Otra cosa</a></li>
-						<li class="nav-item" id="nav-item-blog"><a href="<?php echo base_url(); ?>es/blog" class="nav-link">Blog</a></li>
-						<li class="nav-item"><a href="#" class="nav-link">Contacto</a></li>
-					</ul>
+						</nav>
+					</div>
 				</div>
 			</div>
-		</nav>
-		<!-- END nav -->
-
-	</section>
+		</div>
+	</div>
 
 
+	<div class="hero" style="background-image: url('<?php echo base_url(); ?>assets/img/hero_1.jpg');"></div>
 
+
+
+	<script src="<?php echo base_url(); ?>assets/js/jquery-3.3.1.min.js"></script>
+	<script src="<?php echo base_url(); ?>assets/js/popper.min.js"></script>
+	<script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
+	<script src="<?php echo base_url(); ?>assets/js/jquery.sticky.js"></script>
+	<script src="<?php echo base_url(); ?>assets/js/main.js"></script>
 </body>
 
 </html>
-
-
-<script>
-	$(document).ready(function() {
-		if (window.location.host == "localhost") {
-			switch (window.location.pathname) {
-				case "/123emprende/es/blog":
-					$("#nav-item-blog").addClass("active");
-					break;
-				case "/123emprende/es/blog":
-					$("#nav-item-blog").addClass("active");
-					break;
-			}
-		} else {
-			switch (window.location.pathname) {
-				case "/es/blog":
-					$("#nav-item-blog").addClass("active");
-					break;
-				case "/es/blog":
-					$("#nav-item-blog").addClass("active");
-					break;
-			}
-		}
-	});
-</script>

@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAMA,AACI,QADI,CACJ,MAAM,CAAC;EACH,SAAS,EAAE,IAAI;CAIU;;AANjC,AAGQ,QAHA,CACJ,MAAM,CAEF,UAAU,CAAC;EACP,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;CAAG",
-    "sources": [
-        "diseno_mecanico.sass"
-    ],
-    "names": [],
-    "file": "diseno_mecanico.css"
-}
+{"version":3,"sources":["diseno_mecanico.sass"],"names":[],"mappings":"AAOI;EACI,eAAA;AANR;AAOQ;EACI,kBAAA;EACA,eAAA;EACA,gBAAA;AALZ","file":"diseno_mecanico.css"}

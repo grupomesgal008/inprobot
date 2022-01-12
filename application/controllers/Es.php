@@ -45,7 +45,7 @@ class Es extends CI_Controller
 		$this->load->view('templates/footer');
 	}
 
-	public function diseno_fds()
+	public function fds()
 	{
 		$this->load->view('templates/header');
 		$this->load->view('es/fds');

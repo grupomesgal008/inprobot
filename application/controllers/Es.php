@@ -44,4 +44,18 @@ class Es extends CI_Controller
 		$this->load->view('es/urbanismo_y_licencias');
 		$this->load->view('templates/footer');
 	}
+
+	public function diseno_fds()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('es/fds');
+		$this->load->view('templates/footer');
+	}
+
+	public function diseno_mecanico()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('es/diseno_mecanico');
+		$this->load->view('templates/footer');
+	}
 }

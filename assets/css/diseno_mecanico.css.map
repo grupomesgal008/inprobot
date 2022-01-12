@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAMA,AAEQ,QAFA,CACJ,MAAM,CACF,UAAU,CAAC;EACP,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;CAAG",
     "sources": [
         "diseno_mecanico.sass"
     ],

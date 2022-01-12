@@ -90,7 +90,7 @@
 								<ul class="site-menu main-menu js-clone-nav d-none d-lg-block">
 									<!-- <li class="active"><a href="#home-section" class="nav-link">Inicio</a></li> -->
 									<li><a href="<?php echo base_url(); ?>es/proyectos_industriales" class="nav-link">Proyectos Industriales</a></li>
-									<li><a href="<?php echo base_url(); ?>es/urbanismo_y_licencias" class="nav-link">Urbanismo y Licencias</a></li>
+									<li><a href="<?php echo base_url(); ?>" class="nav-link">Urbanismo y Licencias</a></li>
 									<!-- <li class="has-children">
 										<a href="#" class="nav-link">Pages</a>
 										<ul class="dropdown arrow-top">
@@ -107,8 +107,8 @@
 											</li>
 										</ul>
 									</li> -->
-									<li><a href="<?php echo base_url(); ?>es/fds" class="nav-link">FDS</a></li>
-									<li><a href="<?php echo base_url(); ?>es/diseno_mecanico" class="nav-link">Diseño Mecánico</a></li>
+									<li><a href="<?php echo base_url(); ?>" class="nav-link">FDS</a></li>
+									<li><a href="<?php echo base_url(); ?>" class="nav-link">Diseño Mecánico</a></li>
 									<!-- <li><a href="#gallery-section" class="nav-link">Gallery</a></li> -->
 									<li><a href="<?php echo base_url(); ?>" class="nav-link">Contacto</a></li>
 								</ul>

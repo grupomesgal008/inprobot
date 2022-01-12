@@ -35,14 +35,14 @@ class Es extends CI_Controller
 	{
 		$this->load->view('templates/header');
 		$this->load->view('es/proyectos_industriales');
-		// $this->load->view('templates/footer');
+		$this->load->view('templates/footer');
 	}
 
 	public function urbanismo_y_licencias()
 	{
 		$this->load->view('templates/header');
 		$this->load->view('es/urbanismo_y_licencias');
-		// $this->load->view('templates/footer');
+		$this->load->view('templates/footer');
 	}
 
 	public function fds()
@@ -56,6 +56,12 @@ class Es extends CI_Controller
 	{
 		$this->load->view('templates/header');
 		$this->load->view('es/diseno_mecanico');
+		$this->load->view('templates/footer');
+	}
+	public function contacto()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('es/contacto');
 		$this->load->view('templates/footer');
 	}
 }

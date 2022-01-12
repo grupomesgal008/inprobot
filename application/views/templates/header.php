@@ -110,7 +110,7 @@
 									<li><a href="<?php echo base_url(); ?>es/fds" class="nav-link">FDS</a></li>
 									<li><a href="<?php echo base_url(); ?>es/diseno_mecanico" class="nav-link">Diseño Mecánico</a></li>
 									<!-- <li><a href="#gallery-section" class="nav-link">Gallery</a></li> -->
-									<li><a href="<?php echo base_url(); ?>" class="nav-link">Contacto</a></li>
+									<li><a href="<?php echo base_url(); ?>es/contacto" class="nav-link">Contacto</a></li>
 								</ul>
 							</div>
 						</nav>

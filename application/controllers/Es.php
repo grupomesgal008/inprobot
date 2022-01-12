@@ -37,4 +37,11 @@ class Es extends CI_Controller
 		$this->load->view('es/proyectos_industriales');
 		$this->load->view('templates/footer');
 	}
+
+	public function urbanismo_y_licencias()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('es/urbanismo_y_licencias');
+		$this->load->view('templates/footer');
+	}
 }

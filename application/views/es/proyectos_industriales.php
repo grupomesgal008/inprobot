@@ -1,6 +1,5 @@
-<head>
-    <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/proyectos_industriales.css">
-</head>
+<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/proyectos_industriales.css">
+
 
 <body>
     <div class="section-presentacion">

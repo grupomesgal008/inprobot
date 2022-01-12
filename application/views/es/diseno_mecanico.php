@@ -29,9 +29,9 @@
         <div class="row seccion utiles_control">
             <div class="col-md-6 col-md-order-2 texto">
                 <p class="subtitulo">ÚTILES DE CONTROL</p>
-                <p></p>
+                <p>Diseño y fabricación de útiles y calibres de control necesarios para la medición y control dimensional de las piezas.</p>
             </div>
-            <div class="col-md-6">Diseño y fabricación de útiles y calibres de control necesarios para la medición y control dimensional de las piezas.</div>
+            <div class="col-md-6"></div>
         </div>
 
         <div class="row seccion maquinas_corte_montaje">

@@ -28,13 +28,13 @@ body {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background-color: #E5004E50;
+  background-color: #3d415350;
   border-radius: 10px;
   /* Handle on hover */
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #0055b8;
+  background: #3d4153;
 }
 
 /* ---- HEADER ---- */

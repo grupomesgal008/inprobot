@@ -17,7 +17,7 @@
                     <div class="featured-carousel owl-carousel">
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(images/work-1.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url('<?php echo base_url();?>assets/img/header/hero_1.jpg');">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
@@ -30,8 +30,8 @@
                         </div>
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(images/work-2.jpg);">
-                                    <a href="#" class="icon d-flex align-items-center justify-content-center">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url('<?php echo base_url();?>assets/img/header/hero_1.jpg');">
+                                    <a href="<?php echo base_url();?>assets/img/hero_1.jpg" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
                                 </div>
@@ -43,7 +43,7 @@
                         </div>
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(images/work-3.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url('<?php echo base_url();?>assets/img/header/hero_1.jpg');">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
@@ -56,7 +56,7 @@
                         </div>
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(images/work-4.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url('<?php echo base_url();?>assets/img/header/hero_1.jpg');">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>

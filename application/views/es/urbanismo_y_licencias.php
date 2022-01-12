@@ -14,12 +14,64 @@
                         <div class="item">
                             <div class="work">
                                 <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
-                                    <a href="#" class="icon d-flex align-items-center justify-content-center">
-                                        <span class="ion-ios-search"></span>
+                                    <a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" class="icon d-flex align-items-center justify-content-center">
+                                        <i class="fas fa-search"></i>
                                     </a>
                                 </div>
                                 <div class="text pt-3 w-100 text-center">
-                                    <h3><a href="#">Work 01</a></h3>
+                                    <h3><a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg">Adecuación y Adaptación</a></h3>
+                                    <span>de cualquier local adquirido hasta la legalización del mismo.</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="work">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
+                                    <a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" class="icon d-flex align-items-center justify-content-center">
+                                        <i class="fas fa-search"></i>
+                                    </a>
+                                </div>
+                                <div class="text pt-3 w-100 text-center">
+                                    <h3><a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg">Licencias</a></h3>
+                                    <span>de construcción, de obra y apertura</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="work">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
+                                    <a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" class="icon d-flex align-items-center justify-content-center">
+                                        <i class="fas fa-search"></i>
+                                    </a>
+                                </div>
+                                <div class="text pt-3 w-100 text-center">
+                                    <h3><a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg">Asesoramiento</a></h3>
+                                    <span>con los organismos competentes</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="work">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
+                                    <a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" class="icon d-flex align-items-center justify-content-center">
+                                        <i class="fas fa-search"></i>
+                                    </a>
+                                </div>
+                                <div class="text pt-3 w-100 text-center">
+                                    <h3><a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg">Dirección</a></h3>
+                                    <span> de obra</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="item">
+                            <div class="work">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
+                                    <a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" class="icon d-flex align-items-center justify-content-center">
+                                        <i class="fas fa-search"></i>
+                                    </a>
+                                </div>
+                                <div class="text pt-3 w-100 text-center">
+                                    <h3><a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg">Work 05</a></h3>
                                     <span>Web Design</span>
                                 </div>
                             </div>
@@ -27,68 +79,16 @@
                         <div class="item">
                             <div class="work">
                                 <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
-                                    <a href="#" class="icon d-flex align-items-center justify-content-center">
-                                        <span class="ion-ios-search"></span>
+                                    <a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" class="icon d-flex align-items-center justify-content-center">
+                                        <i class="fas fa-search"></i>
                                     </a>
                                 </div>
                                 <div class="text pt-3 w-100 text-center">
-                                    <h3><a href="#">Work 02</a></h3>
+                                    <h3><a href="<?php echo base_url(); ?>assets/img/header/hero_1.jpg">Work 06</a></h3>
                                     <span>Web Design</span>
                                 </div>
                             </div>
-                        </div>
-                        <div class="item">
-                            <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
-                                    <a href="#" class="icon d-flex align-items-center justify-content-center">
-                                        <span class="ion-ios-search"></span>
-                                    </a>
-                                </div>
-                                <div class="text pt-3 w-100 text-center">
-                                    <h3><a href="#">Work 03</a></h3>
-                                    <span>Web Design</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
-                                    <a href="#" class="icon d-flex align-items-center justify-content-center">
-                                        <span class="ion-ios-search"></span>
-                                    </a>
-                                </div>
-                                <div class="text pt-3 w-100 text-center">
-                                    <h3><a href="#">Work 04</a></h3>
-                                    <span>Web Design</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
-                                    <a href="#" class="icon d-flex align-items-center justify-content-center">
-                                        <span class="ion-ios-search"></span>
-                                    </a>
-                                </div>
-                                <div class="text pt-3 w-100 text-center">
-                                    <h3><a href="#">Work 05</a></h3>
-                                    <span>Web Design</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
-                                    <a href="#" class="icon d-flex align-items-center justify-content-center">
-                                        <span class="ion-ios-search"></span>
-                                    </a>
-                                </div>
-                                <div class="text pt-3 w-100 text-center">
-                                    <h3><a href="#">Work 06</a></h3>
-                                    <span>Web Design</span>
-                                </div>
-                            </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

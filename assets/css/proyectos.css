@@ -1,0 +1,37 @@
+.section-presentacion {
+  padding: 100px 0 60px;
+  text-align: center;
+}
+.section-presentacion .parte {
+  margin: 30px 0;
+}
+.section-presentacion .icon i {
+  font-size: 30px;
+  background-color: #3d4153;
+  color: #fff;
+  padding: 15px;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+.section-presentacion h3 {
+  font-family: "Cambo", "Times New Roman", serif;
+  font-size: 22px;
+}
+.section-presentacion .info-icon .description {
+  margin-top: 15px;
+  color: #777777;
+}
+
+.section-galeria {
+  background-color: #3d4153;
+  padding: 20px;
+}
+.section-galeria .parte .contenedor-imagen {
+  padding: 20px;
+}
+.section-galeria .parte .contenedor-imagen .imagen-galeria {
+  height: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}/*# sourceMappingURL=proyectos.css.map */

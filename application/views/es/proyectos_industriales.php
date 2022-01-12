@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/proyectos_industriales.css">
+<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/proyectos.css">
 
 
 <body>

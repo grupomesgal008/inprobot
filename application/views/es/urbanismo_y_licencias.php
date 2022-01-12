@@ -7,13 +7,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="heading-section mb-5 pb-md-4">Carousel #02</h2>
+                    <h2 class="heading-section mb-5 pb-md-4">Proyectos</h2>
                 </div>
                 <div class="col-md-12">
                     <div class="featured-carousel owl-carousel">
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/images/work-1.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
@@ -26,7 +26,7 @@
                         </div>
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/images/work-2.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
@@ -39,7 +39,7 @@
                         </div>
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/images/work-3.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
@@ -52,7 +52,7 @@
                         </div>
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/images/work-4.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
@@ -65,7 +65,7 @@
                         </div>
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/images/work-5.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
@@ -78,7 +78,7 @@
                         </div>
                         <div class="item">
                             <div class="work">
-                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/images/work-6.jpg);">
+                                <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(<?php echo base_url(); ?>assets/img/header/hero_1.jpg);">
                                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                                         <span class="ion-ios-search"></span>
                                     </a>
@@ -95,4 +95,3 @@
         </div>
     </section>
 </body>
-<script src="<?php echo base_url(); ?>assets/js/urbanismo.js"></script>

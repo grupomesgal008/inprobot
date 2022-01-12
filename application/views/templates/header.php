@@ -107,7 +107,11 @@
 											</li>
 										</ul>
 									</li> -->
+<<<<<<< HEAD
 									<li><a href="<?php echo base_url(); ?>es/diseno_fds" class="nav-link">FDS</a></li>
+=======
+									<li><a href="<?php echo base_url(); ?>" class="nav-link">FDS</a></li>
+>>>>>>> 8dfb55288c9f11c64329d73a6f82e9633e418951
 									<li><a href="<?php echo base_url(); ?>es/diseno_mecanico" class="nav-link">Diseño Mecánico</a></li>
 									<!-- <li><a href="#gallery-section" class="nav-link">Gallery</a></li> -->
 									<li><a href="<?php echo base_url(); ?>" class="nav-link">Contacto</a></li>

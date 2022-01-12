@@ -1,5 +1,5 @@
 <head>
-    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/urbanismo_y_licencias.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
@@ -99,3 +99,4 @@
         </div>
         </div>
 </body>
+<script src="<?php echo base_url(); ?>assets/js/owl.carousell.min.js"></script>

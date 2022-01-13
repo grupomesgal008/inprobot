@@ -4,16 +4,20 @@
 
 <body>
     <div class="seccion cabecera">
-        <div class="col-12 texto">
-            <p class="titulo">DISEÑO MECÁNICO</p>
+        <div class="col-12">
+            <div class="texto">
+                <p class="titulo">DISEÑO MECÁNICO</p>
+            </div>
         </div>
     </div>
 
     <div class="container">
         <div class="row seccion introduccion">
-            <div class="col-12 texto">
-                <p>E&P trabaja mano a mano con distintas empresas de inyección de plástico dedicadas al sector de la automoción aprovechando la cercanía de las mismas y suministrando así los distintos útiles necesarios para la fabricación de cada uno de los productos.</p>
-                <p>Con más de 5 años de experiencia en el desarrollo y diseño de ingeniería de producto somos conocedores de los requerimientos y especificaciones de los distintos materiales que se utilizan en la inyección así como el cuidado que requieren piezas de aspecto y técnicas.</p>
+            <div class="col-12">
+                <div class="texto">
+                    <p>E&P trabaja mano a mano con distintas empresas de inyección de plástico dedicadas al sector de la automoción aprovechando la cercanía de las mismas y suministrando así los distintos útiles necesarios para la fabricación de cada uno de los productos.</p>
+                    <p>Con más de 5 años de experiencia en el desarrollo y diseño de ingeniería de producto somos conocedores de los requerimientos y especificaciones de los distintos materiales que se utilizan en la inyección así como el cuidado que requieren piezas de aspecto y técnicas.</p>
+                </div>
             </div>
         </div>
 
@@ -106,7 +110,9 @@
 
         <div class="row seccion proveedores">
             <div class="col-12">
-                <p class="subtitulo">Proveedores</p>
+                <div class="texto">
+                    <p class="subtitulo">Proveedores</p>
+                </div>
             </div>
             <div class="col-2">
                 <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor1.png" alt="">

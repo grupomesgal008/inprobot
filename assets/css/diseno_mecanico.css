@@ -79,7 +79,19 @@
   padding: 30px 0;
 }
 
-.proveedores img {
-  width: 100%;
+.proveedores .proveedor {
+  position: relative;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.proveedores .proveedor img {
+  max-width: 80%;
+  max-height: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 /*# sourceMappingURL=diseno_mecanico.css.map */

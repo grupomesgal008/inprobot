@@ -114,22 +114,22 @@
                     <p class="subtitulo">Proveedores</p>
                 </div>
             </div>
-            <div class="col-2">
+            <div class="col-2 proveedor">
                 <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor1.png" alt="">
             </div>
-            <div class="col-2">
+            <div class="col-2 proveedor">
                 <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor2.png" alt="">
             </div>
-            <div class="col-2">
+            <div class="col-2 proveedor">
                 <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor3.png" alt="">
             </div>
-            <div class="col-2">
+            <div class="col-2 proveedor">
                 <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor4.png" alt="">
             </div>
-            <div class="col-2">
+            <div class="col-2 proveedor">
                 <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor5.png" alt="">
             </div>
-            <div class="col-2">
+            <div class="col-2 proveedor">
                 <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor6.png" alt="">
             </div>
         </div>

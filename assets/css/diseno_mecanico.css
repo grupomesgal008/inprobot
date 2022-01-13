@@ -1,9 +1,14 @@
-.seccion {
-  padding: 30px 0;
-}
-
 .seccion .texto {
   font-size: 16px;
+}
+
+.seccion .texto.vertical {
+  position: absolute;
+  width: calc(100% - 30px);
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
 }
 
 .seccion .texto p:last-of-type {
@@ -22,7 +27,11 @@
   font-weight: 600;
 }
 
+.seccion .owl-carousel {
+  padding-top: 46px;
+}
+
 .cabecera {
-  padding-top: 60px;
+  padding: 60px 0 30px;
 }
 /*# sourceMappingURL=diseno_mecanico.css.map */

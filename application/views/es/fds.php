@@ -41,12 +41,6 @@
                     <div class="item">
                         <img src="<?php echo base_url(); ?>assets/img/fds/proyecto2.png" alt="">
                     </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/fds/proyecto3.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/fds/proyecto4.png" alt="">
-                    </div>
                 </div>
             </div>
         </div>

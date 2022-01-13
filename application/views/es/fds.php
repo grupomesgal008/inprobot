@@ -30,22 +30,22 @@
                     <p class="titulo">Proyectos</p>
                 </div>
             </div>
-            <div class="col-12 proyecto">
+            <div class="col-12">
                 <div class="featured-carousel owl-carousel">
                     <div class="item">
                         <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano1.png" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/fds/proyecto1.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano2.png" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/fds/proyecto2.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano3.png" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/fds/proyecto3.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano4.png" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/fds/proyecto4.png" alt="">
                     </div>
                 </div>
             </div>

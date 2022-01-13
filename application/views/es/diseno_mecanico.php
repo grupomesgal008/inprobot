@@ -105,7 +105,27 @@
         </div>
 
         <div class="row seccion proveedores">
-
+            <div class="col-12">
+                <p class="subtitulo">Proveedores</p>
+            </div>
+            <div class="col-2">
+                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor1.png" alt="">
+            </div>
+            <div class="col-2">
+                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor2.png" alt="">
+            </div>
+            <div class="col-2">
+                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor3.png" alt="">
+            </div>
+            <div class="col-2">
+                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor4.png" alt="">
+            </div>
+            <div class="col-2">
+                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor5.png" alt="">
+            </div>
+            <div class="col-2">
+                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor6.png" alt="">
+            </div>
         </div>
 
     </div>

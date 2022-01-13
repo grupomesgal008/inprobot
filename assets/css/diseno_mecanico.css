@@ -100,7 +100,7 @@
 }
 
 .proveedores .titulo {
-  margin-bottom: 30px;
+  margin-bottom: 30px !important;
 }
 
 .proveedores .proveedor {

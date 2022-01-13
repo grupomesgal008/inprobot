@@ -28,7 +28,11 @@
 }
 
 .seccion .owl-carousel {
-  padding-top: 46px;
+  margin-top: 46px;
+}
+
+.seccion .owl-stage-outer {
+  border-radius: 10px;
 }
 
 .cabecera {

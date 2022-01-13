@@ -1,1 +1,76 @@
-/* No CSS *//*# sourceMappingURL=fds.css.map */
+.seccion .texto {
+  font-size: 16px;
+}
+
+.seccion .texto p:last-of-type {
+  margin: 0;
+}
+
+.seccion .texto .titulo {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.seccion .texto .subtitulo {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.seccion .owl-carousel {
+  margin-top: 46px;
+}
+
+.seccion .owl-carousel .owl-stage-outer .owl-item {
+  height: 260px;
+}
+
+.seccion .owl-carousel .owl-stage-outer .owl-item img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  position: absolute;
+  border-radius: 10px;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.cabecera {
+  padding: 100px 0;
+}
+
+.cabecera .titulo {
+  margin-bottom: 0;
+}
+
+.simulador {
+  padding: 30px 0;
+}
+
+.proyectos {
+  padding: 30px 0;
+}
+
+.proyectos .proyecto {
+  position: relative;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.proyectos .proyecto img {
+  max-width: 80%;
+  max-height: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+/*# sourceMappingURL=fds.css.map */

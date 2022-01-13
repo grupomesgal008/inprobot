@@ -37,7 +37,7 @@
   height: 260px;
 }
 
-.seccion .owl-carousel .owl-stage-outer img {
+.seccion .owl-carousel .owl-stage-outer .owl-item img {
   width: auto;
   height: auto;
   max-width: 100%;

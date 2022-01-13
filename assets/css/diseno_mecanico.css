@@ -33,12 +33,12 @@
 
 .seccion .owl-carousel .owl-stage-outer {
   border-radius: 10px;
-  height: 260px;
 }
 
 .seccion .owl-carousel .owl-stage-outer img {
   -o-object-fit: cover;
      object-fit: cover;
+  height: 260px;
 }
 
 .cabecera {

@@ -58,4 +58,10 @@ class Es extends CI_Controller
 		$this->load->view('es/diseno_mecanico');
 		$this->load->view('templates/footer');
 	}
+	public function contacto()
+	{
+		$this->load->view('templates/header');
+		$this->load->view('es/contacto');
+		$this->load->view('templates/footer');
+	}
 }

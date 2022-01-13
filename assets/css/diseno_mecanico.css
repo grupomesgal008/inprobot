@@ -99,6 +99,10 @@
   padding: 30px 0;
 }
 
+.proveedores .titulo {
+  margin-bottom: 30px;
+}
+
 .proveedores .proveedor {
   position: relative;
   height: 100px;

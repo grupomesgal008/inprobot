@@ -50,7 +50,7 @@
 }
 
 .simulador .titulo {
-  margin-bottom: 30px;
+  margin-bottom: 30px !important;
 }
 
 .proyectos {
@@ -58,7 +58,7 @@
 }
 
 .proyectos .titulo {
-  margin-bottom: 30px;
+  margin-bottom: 30px !important;
 }
 
 .proyectos .proyecto {

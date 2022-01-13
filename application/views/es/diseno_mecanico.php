@@ -111,7 +111,7 @@
         <div class="row seccion proveedores">
             <div class="col-12">
                 <div class="texto">
-                    <p class="subtitulo">Proveedores</p>
+                    <p class="titulo">Proveedores</p>
                 </div>
             </div>
             <div class="col-2 proveedor">

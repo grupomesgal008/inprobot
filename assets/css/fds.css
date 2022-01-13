@@ -7,7 +7,6 @@
 }
 
 .seccion .texto .titulo {
-  margin-bottom: 30px;
   text-align: center;
   font-size: 32px;
   font-weight: 600;
@@ -46,16 +45,20 @@
   padding: 100px 0;
 }
 
-.cabecera .titulo {
-  margin-bottom: 0;
-}
-
 .simulador {
   padding: 30px 0;
 }
 
+.simulador .titulo {
+  margin-bottom: 30px;
+}
+
 .proyectos {
   padding: 30px 0;
+}
+
+.proyectos .titulo {
+  margin-bottom: 30px;
 }
 
 .proyectos .proyecto {

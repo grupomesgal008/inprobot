@@ -31,6 +31,9 @@
             <div class="col-md-5">
                 <div class="featured-carousel owl-carousel">
                     <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                    </div>
+                    <div class="item">
                         <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano1.png" alt="">
                     </div>
                     <div class="item">
@@ -58,7 +61,10 @@
             </div>
             <div class="col-md-5">
                 <div class="featured-carousel owl-carousel">
-                <div class="item">
+                    <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                    </div>
+                    <div class="item">
                         <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/control1.png" alt="">
                     </div>
                 </div>
@@ -77,7 +83,10 @@
             </div>
             <div class="col-md-5">
                 <div class="featured-carousel owl-carousel">
-                <div class="item">
+                    <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                    </div>
+                    <div class="item">
                         <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina1.png" alt="">
                     </div>
                     <div class="item">

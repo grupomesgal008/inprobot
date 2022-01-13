@@ -3,14 +3,13 @@
 </head>
 
 <body>
-    <div class="container">
-
-        <div class="row seccion cabecera">
-            <div class="col-12 texto">
-                <p class="titulo">DISEÑO MECÁNICO</p>
-            </div>
+    <div class="seccion cabecera">
+        <div class="col-12 texto">
+            <p class="titulo">DISEÑO MECÁNICO</p>
         </div>
+    </div>
 
+    <div class="container">
         <div class="row seccion introduccion">
             <div class="col-12 texto">
                 <p>E&P trabaja mano a mano con distintas empresas de inyección de plástico dedicadas al sector de la automoción aprovechando la cercanía de las mismas y suministrando así los distintos útiles necesarios para la fabricación de cada uno de los productos.</p>

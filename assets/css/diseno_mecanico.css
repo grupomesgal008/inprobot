@@ -58,6 +58,10 @@
   padding: 30px 0;
 }
 
+.introduccion .texto {
+  font-size: 18px;
+}
+
 .manos_robot {
   min-height: 350px;
 }

@@ -23,28 +23,48 @@
                 <p class="subtitulo">MANOS DE ROBOT</p>
                 <p>Diseñamos y fabricamos manos de robot con la estructura en aluminio y todos los componentes de primera calidad. Además, tienen un diseño flexible, dotando todas las pinzas y ventosas de libertad de movimientos en los tres ejes lo que permite realizar los últimos ajustes necesarios en máquina.</p>
             </div>
-            <div class="col-md-6"></div>
-        </div>
-
-        <div class="row seccion utiles_control">
-            <div class="col-md-6 order-md-2 texto">
-                <p class="subtitulo">ÚTILES DE CONTROL</p>
-                <p>Diseño y fabricación de útiles y calibres de control necesarios para la medición y control dimensional de las piezas.</p>
+            <div class="col-md-6">
+                <div class="featured-carousel owl-carousel">
+                    <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                    </div>
+                </div>
             </div>
-            <div class="col-md-6"></div>
         </div>
+    </div>
 
-        <div class="row seccion maquinas_corte_montaje">
-            <div class="col-md-6 texto">
-                <p class="subtitulo">MÁQUINAS DE CORTE Y MONTAJE</p>
-                <p>Fabricación de máquinas de corte de colada y montaje con certificado CE.</p>
-            </div>
-            <div class="col-md-6"></div>
+    <div class="row seccion utiles_control">
+        <div class="col-md-6 order-md-2 texto">
+            <p class="subtitulo">ÚTILES DE CONTROL</p>
+            <p>Diseño y fabricación de útiles y calibres de control necesarios para la medición y control dimensional de las piezas.</p>
         </div>
+        <div class="col-md-6"></div>
+    </div>
 
-        <div class="row seccion proveedores">
-
+    <div class="row seccion maquinas_corte_montaje">
+        <div class="col-md-6 texto">
+            <p class="subtitulo">MÁQUINAS DE CORTE Y MONTAJE</p>
+            <p>Fabricación de máquinas de corte de colada y montaje con certificado CE.</p>
         </div>
+        <div class="col-md-6"></div>
+    </div>
+
+    <div class="row seccion proveedores">
+
+    </div>
 
     </div>
 </body>
+
+
+<script src="<?php echo base_url(); ?>assets/js/owl.carousel.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/js/urbanismo.js"></script>

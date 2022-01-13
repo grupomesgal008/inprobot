@@ -31,16 +31,16 @@
             <div class="col-md-5">
                 <div class="featured-carousel owl-carousel">
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano1.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano2.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano3.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano4.png" alt="">
                     </div>
                 </div>
             </div>
@@ -58,17 +58,8 @@
             </div>
             <div class="col-md-5">
                 <div class="featured-carousel owl-carousel">
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/control1.png" alt="">
                     </div>
                 </div>
             </div>
@@ -86,17 +77,20 @@
             </div>
             <div class="col-md-5">
                 <div class="featured-carousel owl-carousel">
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina1.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina2.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina3.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina4.png" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina5.png" alt="">
                     </div>
                 </div>
             </div>

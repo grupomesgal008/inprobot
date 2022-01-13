@@ -36,8 +36,8 @@
 }
 
 .seccion .owl-carousel .owl-stage-outer img {
-  -o-object-fit: cover;
-     object-fit: cover;
+  -o-object-fit: contain;
+     object-fit: contain;
   height: 260px;
 }
 

@@ -6,6 +6,17 @@
   font-size: 14px;
 }
 
+@media (min-width: 768px) {
+  .seccion .texto.vertical {
+    position: absolute;
+    width: calc(100% - 30px);
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+  }
+}
+
 .seccion .texto p:last-of-type {
   margin: 0;
 }
@@ -23,11 +34,11 @@
   font-weight: 600;
 }
 
-.seccion .owl-carousel .owl-stage-outer .owl-item {
+.seccion .imagen {
   height: 260px;
 }
 
-.seccion .owl-carousel .owl-stage-outer .owl-item img {
+.seccion .imagen img {
   width: auto;
   height: auto;
   max-width: 100%;
@@ -44,6 +55,7 @@
 
 .cabecera {
   padding: 100px 0;
+  background-color: #fafafa;
 }
 
 .cabecera .subtitulo {
@@ -63,5 +75,29 @@
   text-decoration: none;
   font-size: 18px;
   border-radius: 20px;
+}
+
+.proyectos, .urbanismo, .simulacion, .diseno {
+  text-align: center !important;
+}
+
+.clientes {
+  padding: 60px 0;
+}
+
+.clientes .cliente {
+  position: relative;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.clientes .cliente img {
+  max-width: 80%;
+  max-height: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
 }
 /*# sourceMappingURL=index.css.map */

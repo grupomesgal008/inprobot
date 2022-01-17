@@ -20,7 +20,7 @@
     </div>
 
     <div class="container">
-        <div class="row seccion manos_robot">
+        <div class="row seccion proyectos">
             <div class="col-md-6">
                 <div class="texto vertical">
                     <p class="subtitulo">PROYECTOS DE INGENIERÍA INDUSTRIAL</p>
@@ -30,28 +30,12 @@
             <div class="col-md-1">
 
             </div>
-            <div class="col-md-5">
-                <div class="featured-carousel owl-carousel">
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano1.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano2.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano3.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/mano4.png" alt="">
-                    </div>
-                </div>
+            <div class="col-md-5 imagen">
+                <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
             </div>
         </div>
 
-        <div class="row seccion utiles_control">
+        <div class="row seccion urbanismo">
             <div class="col-md-6 order-md-3">
                 <div class="texto vertical">
                     <p class="subtitulo">URBANISMO Y LICENCIAS</p>
@@ -61,19 +45,12 @@
             <div class="col-md-1 order-md-2">
 
             </div>
-            <div class="col-md-5">
-                <div class="featured-carousel owl-carousel">
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/control1.png" alt="">
-                    </div>
-                </div>
+            <div class="col-md-5 imagen">
+                <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
             </div>
         </div>
 
-        <div class="row seccion maquinas_corte_montaje">
+        <div class="row seccion simulacion">
             <div class="col-md-6">
                 <div class="texto vertical">
                     <p class="subtitulo">SIMULACIÓN DE INCENDIOS</p>
@@ -83,31 +60,12 @@
             <div class="col-md-1">
 
             </div>
-            <div class="col-md-5">
-                <div class="featured-carousel owl-carousel">
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina1.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina2.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina3.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina4.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/maquina5.png" alt="">
-                    </div>
-                </div>
+            <div class="col-md-5 imagen">
+                <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
             </div>
         </div>
 
-        <div class="row seccion utiles_control">
+        <div class="row seccion diseno">
             <div class="col-md-6 order-md-3">
                 <div class="texto vertical">
                     <p class="subtitulo">DISEÑO MECÁNICO</p>
@@ -117,41 +75,38 @@
             <div class="col-md-1 order-md-2">
 
             </div>
-            <div class="col-md-5">
-                <div class="featured-carousel owl-carousel">
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/control1.png" alt="">
-                    </div>
-                </div>
+            <div class="col-md-5 imagen">
+                <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
             </div>
         </div>
 
-        <div class="row seccion proveedores">
+        <div class="row seccion clientes">
             <div class="col-12">
                 <div class="texto">
                     <p class="titulo">PRINCIPALES CLIENTES</p>
                 </div>
             </div>
-            <div class="col-6 col-sm-4 col-lg-2 proveedor">
-                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor1.png" alt="">
-            </div>
-            <div class="col-6 col-sm-4 col-lg-2 proveedor">
-                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor2.png" alt="">
-            </div>
-            <div class="col-6 col-sm-4 col-lg-2 proveedor">
-                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor3.png" alt="">
-            </div>
-            <div class="col-6 col-sm-4 col-lg-2 proveedor">
-                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor4.png" alt="">
-            </div>
-            <div class="col-6 col-sm-4 col-lg-2 proveedor">
-                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor5.png" alt="">
-            </div>
-            <div class="col-6 col-sm-4 col-lg-2 proveedor">
-                <img src="<?php echo base_url(); ?>assets/img/diseno_mecanico/proveedor6.png" alt="">
+            <div class="col-12">
+                <div class="row">
+                    <div class="col-lg-2 col-md-3 col-sm-4 col-6 cliente">
+                        <img src="<?php echo base_url(); ?>assets/img/index/cliente1.png" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-4 col-6 cliente">
+                        <img src="<?php echo base_url(); ?>assets/img/index/cliente2.png" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-4 col-6 cliente">
+                        <img src="<?php echo base_url(); ?>assets/img/index/cliente3.png" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-4 col-6 cliente">
+                        <img src="<?php echo base_url(); ?>assets/img/index/cliente4.png" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-4 col-6 cliente">
+                        <img src="<?php echo base_url(); ?>assets/img/index/cliente5.png" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-4 col-6 cliente">
+                        <img src="<?php echo base_url(); ?>assets/img/index/cliente6.png" alt="">
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -47,7 +47,7 @@
 }
 
 .cabecera .subtitulo {
-  font-weight: 400;
-  font-size: 18px;
+  font-weight: 400 !important;
+  font-size: 17px !important;
 }
 /*# sourceMappingURL=index.css.map */

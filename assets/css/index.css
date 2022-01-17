@@ -45,4 +45,9 @@
 .cabecera {
   padding: 100px 0;
 }
+
+.cabecera .subtitulo {
+  font-weight: 400;
+  font-size: 18px;
+}
 /*# sourceMappingURL=index.css.map */

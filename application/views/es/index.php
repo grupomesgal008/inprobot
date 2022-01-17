@@ -4,10 +4,14 @@
 
 <body>
     <div class="seccion cabecera">
-        <div class="col-12">
-            <div class="texto">
-                <p class="titulo">E&P, ESTUDIOS Y GESTIÓN DE PROYECTOS INDUSTRIALES SL</p>
-                <p>Nuestra ingeniería situada en Jaén está presente en todas las fases de los proyectos. Licencias iniciales necesarias, asesoramiento, proyecto, pliego de contratación, coordinación de seguridad y salud y dirección de obra</p>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8">
+                    <div class="texto">
+                        <p class="titulo">E&P<br>ESTUDIOS&nbsp;Y&nbsp;GESTIÓN DE PROYECTOS&nbsp;INDUSTRIALES&nbsp;SL</p>
+                        <p class="subtitulo">Nuestra ingeniería situada en Jaén está presente en todas las fases de los proyectos. Licencias iniciales necesarias, asesoramiento, proyecto, pliego de contratación, coordinación de seguridad y salud y dirección de obra</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

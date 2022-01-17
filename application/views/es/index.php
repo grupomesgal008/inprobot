@@ -25,6 +25,7 @@
                 <div class="texto vertical">
                     <p class="subtitulo">PROYECTOS DE INGENIERÍA INDUSTRIAL</p>
                     <p>Descripción proyectos- calculo estructuras, calculo instalaciones industriales, eficiencia energética, marcado CE de máquinas, expedientes técnicos, certificados energéticos.</p>
+                    <a href="<?php echo base_url(); ?>es/proyectos_industriales">Proyectos de ingeniería</a>
                 </div>
             </div>
             <div class="col-md-1">
@@ -40,6 +41,7 @@
                 <div class="texto vertical">
                     <p class="subtitulo">URBANISMO Y LICENCIAS</p>
                     <p>Adecuación de locales, legalización industrial.</p>
+                    <a href="<?php echo base_url(); ?>es/urbanismo_y_licencias">Licencias</a>
                 </div>
             </div>
             <div class="col-md-1 order-md-2">
@@ -55,6 +57,7 @@
                 <div class="texto vertical">
                     <p class="subtitulo">SIMULACIÓN DE INCENDIOS</p>
                     <p>Diseño prestacional de sistema de control de humos.</p>
+                    <a href="<?php echo base_url(); ?>es/fds">FDS</a>
                 </div>
             </div>
             <div class="col-md-1">
@@ -70,6 +73,7 @@
                 <div class="texto vertical">
                     <p class="subtitulo">DISEÑO MECÁNICO</p>
                     <p>Especializado en plástico con diseño y construcción de manos de extracción de robot, máquinas de montaje y corte, útiles de control.</p>
+                    <a href="<?php echo base_url(); ?>es/diseno_mecanico">Diseño</a>
                 </div>
             </div>
             <div class="col-md-1 order-md-2">
@@ -87,7 +91,7 @@
                 </div>
             </div>
             <div class="col-12">
-                <div class="row">
+                <div class="row justify-content-center">
                     <div class="col-lg-2 col-md-3 col-sm-4 col-6 cliente">
                         <img src="<?php echo base_url(); ?>assets/img/index/cliente1.png" alt="">
                     </div>

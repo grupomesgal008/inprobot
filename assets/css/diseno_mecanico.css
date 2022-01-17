@@ -2,8 +2,13 @@
   font-size: 14px;
 }
 
+.seccion .texto.vertical {
+  padding-bottom: 30px;
+}
+
 @media (min-width: 768px) {
   .seccion .texto.vertical {
+    padding-bottom: 0;
     position: absolute;
     width: calc(100% - 30px);
     top: 50%;

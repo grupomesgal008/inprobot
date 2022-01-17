@@ -3,7 +3,9 @@
     .texto
         font-size: 14px
         &.vertical
+            padding-bottom: 30px
             @media (min-width: 768px)
+                padding-bottom: 0
                 position: absolute
                 width: calc(100% - 30px)
                 top: 50%
@@ -69,6 +71,14 @@
 
 .proyectos, .urbanismo, .simulacion, .diseno
     text-align: center !important
+    p:last-of-type
+        margin-bottom: 20px !important
+    a
+        padding: 10px 20px
+        font-size: 16px
+        border-radius: 20px
+        background-color: #3d4153
+        color: #fff
 
 .clientes
     padding: 60px 0

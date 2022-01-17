@@ -53,5 +53,15 @@
 
 .cabecera .contenedor_boton {
   text-align: center;
+  margin-top: 30px;
+}
+
+.cabecera .contenedor_boton .b_contacto {
+  padding: 10px 20px;
+  background-color: #3d4153;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  border-radius: 20px;
 }
 /*# sourceMappingURL=index.css.map */

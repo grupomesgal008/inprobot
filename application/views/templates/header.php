@@ -30,9 +30,11 @@
 	<!-- Bootstrap JS -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+	
 	<!-- CSS -->
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/estilos.css">
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/style.css">
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/footer.css">
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/owl.carousel.min.css">
 </head>
 

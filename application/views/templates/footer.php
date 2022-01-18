@@ -36,7 +36,7 @@
                         <div class="col-sm-4 f_dato telefono">
                             <b>Teléfono</b>
                             <br>
-                            (+34)&nbsp;953&nbsp;295&nbsp;002
+                            <a href="tel:953295002">(+34)&nbsp;953&nbsp;295&nbsp;002</a>
                         </div>
                         <div class="col-sm-4 f_dato horas">
                             <b>Horario</b>

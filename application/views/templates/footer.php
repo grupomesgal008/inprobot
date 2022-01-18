@@ -17,10 +17,28 @@
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-12 col-lg-6">
+                <div class="col-11 col-lg-5 f_eyp">
                     <b>E&P</b>
                     <br>
                     Estudios y Gestión de Proyectos Industriales es una ingeniería creada en 1992 y constituida por varios ingenieros de distintos ámbitos
+                </div>
+                <div class="col-12 col-lg-2"></div>
+                <div class="col-12 div col-lg-5 f_datos">
+                    <div class="direccion">
+                        <b>Dirección</b>
+                        <br>
+                        Calle Puerta de Martos, 85, 23004 JAEN
+                    </div>
+                    <div class="telefono">
+                        <b>Teléfono</b>
+                        <br>
+                        (+34) 953 295 002
+                    </div>
+                    <div class="horas">
+                        <b>Horario</b>
+                        <br>
+                        Lunes a viernes: de 9:00 a 18:00
+                    </div>
                 </div>
             </div>
             <div class="row align-items-center">

@@ -3,20 +3,20 @@ footer {
 }
 
 footer .pie_de_pagina {
-  padding: 30px 0;
+  padding: 30px 0 20px;
 }
 
 footer .pie_de_pagina p {
   margin: 0;
 }
 
+footer .pie_de_pagina b {
+  font-size: 16px;
+}
+
 footer .pie_de_pagina .f_eyp {
   padding-bottom: 20px;
   text-align: center;
-}
-
-footer .pie_de_pagina .f_eyp b {
-  font-size: 16px;
 }
 
 footer .pie_de_pagina .f_datos .f_dato {

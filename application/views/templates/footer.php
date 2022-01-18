@@ -19,7 +19,7 @@
             </div>
             -->
             <div class="row justify-content-center">
-                <div class="col-11 col-lg-5 f_eyp">
+                <div class="col-11 col-md-8 col-lg-6 f_eyp">
                     <b>E&P</b>
                     <br>
                     Estudios y Gestión de Proyectos Industriales es una ingeniería creada en 1992 y constituida por varios ingenieros de distintos ámbitos

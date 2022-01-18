@@ -1,21 +1,23 @@
 <footer>
     <div class="pie_de_pagina">
         <div class="container">
+            <!-- 
             <div class="row align-items-center">
                 <div class="col-sm-12 col-md-6 datos_contacto">
                     <ul>
-                        <!-- <li><a href="<?php echo base_url(); ?>es/contacto">C/ Esteban Ramírez Martínez, 2 local bajo, 23009 Jaén</a></li>
+                        <li><a href="<?php echo base_url(); ?>es/contacto">C/ Esteban Ramírez Martínez, 2 local bajo, 23009 Jaén</a></li>
                         <li><a href="mailto:info@fundacionfulgenciomeseguer.org">info@fundacionfulgenciomeseguer.org</a></li>
-                        <li><a href="tel:953448919">Tel. 953 44 89 19</a></li> -->
+                        <li><a href="tel:953448919">Tel. 953 44 89 19</a></li> 
                     </ul>
                 </div>
                 <div class="col-sm-12 col-md-6 redes_sociales">
-                    <!-- <a class="facebook" href="https://www.facebook.com/fundfmeseguer" target="_blank"><i class="fa fa-facebook"></i></a>
+                    <a class="facebook" href="https://www.facebook.com/fundfmeseguer" target="_blank"><i class="fa fa-facebook"></i></a>
                     <a class="twitter" href="https://twitter.com/fundfmeseguer" target="_blank"><i class="fa fa-twitter"></i></a>
                     <a class="linkedin" href="https://www.linkedin.com/company/fundfmeseguer" target="_blank"><i class="fa fa-linkedin"></i></a>
-                    <a class="instagram" href="https://www.instagram.com/fundfmeseguer/" target="_blank"><i class="fa fa-instagram"></i></a> -->
+                    <a class="instagram" href="https://www.instagram.com/fundfmeseguer/" target="_blank"><i class="fa fa-instagram"></i></a>
                 </div>
             </div>
+            -->
             <div class="row justify-content-center">
                 <div class="col-11 col-lg-5 f_eyp">
                     <b>E&P</b>
@@ -23,23 +25,23 @@
                     Estudios y Gestión de Proyectos Industriales es una ingeniería creada en 1992 y constituida por varios ingenieros de distintos ámbitos
                 </div>
             </div>
-            <div class="row">
-                <div class="col-11 f_datos">
+            <div class="row justify-content-center">
+                <div class="col-lg-11 f_datos">
                     <div class="row">
-                        <div class="col-md-4 direccion">
+                        <div class="col-sm-4 f_dato direccion">
                             <b>Dirección</b>
                             <br>
-                            Calle Puerta de Martos, 85, 23004 JAEN
+                            C/&nbsp;Puerta&nbsp;de&nbsp;Martos,&nbsp;85, 23004&nbsp;JAEN
                         </div>
-                        <div class="col-md-4 telefono">
+                        <div class="col-sm-4 f_dato telefono">
                             <b>Teléfono</b>
                             <br>
-                            (+34) 953 295 002
+                            (+34)&nbsp;953&nbsp;295&nbsp;002
                         </div>
-                        <div class="col-md-4 horas">
+                        <div class="col-sm-4 f_dato horas">
                             <b>Horario</b>
                             <br>
-                            Lunes a viernes: de 9:00 a 18:00
+                            Lunes&nbsp;a&nbsp;viernes: de&nbsp;9:00&nbsp;a&nbsp;18:00
                         </div>
                     </div>
                 </div>

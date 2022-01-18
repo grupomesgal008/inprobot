@@ -2,11 +2,25 @@ footer {
   color: #fff;
 }
 
-footer .f_eyp {
+footer .pie_de_pagina {
+  padding: 30px 0;
+}
+
+footer .pie_de_pagina p {
+  margin: 0;
+}
+
+footer .pie_de_pagina .f_eyp {
+  padding-bottom: 20px;
   text-align: center;
 }
 
-footer .f_eyp b {
+footer .pie_de_pagina .f_eyp b {
   font-size: 16px;
+}
+
+footer .pie_de_pagina .f_datos .f_dato {
+  text-align: center;
+  padding-bottom: 20px;
 }
 /*# sourceMappingURL=footer.css.map */

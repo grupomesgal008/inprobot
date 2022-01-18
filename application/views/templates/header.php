@@ -34,7 +34,6 @@
 	<!-- CSS -->
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/estilos.css">
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/style.css">
-	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/footer.css">
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/css/owl.carousel.min.css">
 </head>
 

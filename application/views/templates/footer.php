@@ -16,6 +16,13 @@
                     <a class="instagram" href="https://www.instagram.com/fundfmeseguer/" target="_blank"><i class="fa fa-instagram"></i></a> -->
                 </div>
             </div>
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-10">
+                    E&P
+                    <br>
+                    Estudios y Gestión de Proyectos Industriales es una ingeniería creada en 1992 y constituida por varios ingenieros de distintos ámbitos
+                </div>
+            </div>
             <div class="row align-items-center">
                 <div class="col-12 politicas_pie">
                     <p>
@@ -52,5 +59,3 @@
 <script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/jquery.sticky.js"></script>
 <script src="<?php echo base_url(); ?>assets/js/main.js"></script>
-
-

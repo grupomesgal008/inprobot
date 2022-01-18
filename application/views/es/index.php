@@ -32,7 +32,7 @@
 
             </div>
             <div class="col-md-5 imagen">
-                <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                <img src="<?php echo base_url(); ?>assets/img/index/index1.png" alt="">
             </div>
         </div>
 
@@ -48,7 +48,7 @@
 
             </div>
             <div class="col-md-5 imagen">
-                <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                <img src="<?php echo base_url(); ?>assets/img/index/index2.png" alt="">
             </div>
         </div>
 
@@ -64,7 +64,7 @@
 
             </div>
             <div class="col-md-5 imagen">
-                <img src="<?php echo base_url(); ?>assets/img/header/hero_1.jpg" alt="">
+                <img src="<?php echo base_url(); ?>assets/img/index/index3.png" alt="">
             </div>
         </div>
 

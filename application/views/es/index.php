@@ -8,8 +8,8 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
                     <div class="texto">
-                        <p class="titulo">E&P<br>ESTUDIOS&nbsp;Y&nbsp;GESTIÓN DE PROYECTOS&nbsp;INDUSTRIALES&nbsp;SL</p>
-                        <p class="subtitulo">Nuestra ingeniería situada en Jaén está presente en todas las fases de los proyectos. Licencias iniciales necesarias, asesoramiento, proyecto, pliego de contratación, coordinación de seguridad y salud y dirección de obra</p>
+                        <h1 class="titulo">E&P<br>ESTUDIOS&nbsp;Y&nbsp;GESTIÓN DE PROYECTOS&nbsp;INDUSTRIALES&nbsp;SL</p>
+                        <h5 class="subtitulo">Nuestra ingeniería situada en Jaén está presente en todas las fases de los proyectos. Licencias iniciales necesarias, asesoramiento, proyecto, pliego de contratación, coordinación de seguridad y salud y dirección de obra</p>
                     </div>
                     <div class="contenedor_boton">
                         <a href="<?php echo base_url(); ?>es/contacto" class="b_contacto">Contacta con nosotros</a>

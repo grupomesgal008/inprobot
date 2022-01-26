@@ -48,23 +48,25 @@ header {
 .pie_de_pagina .politicas_pie {
   text-align: center;
 }
+
 h1,
 h2,
 h3,
 h4,
 h5,
-h6,
 .h1,
 .h2,
 .h3,
 .h4,
-.h5,
-.h6 {
-  font-family: "dejanire-headline", serif;
+.h5 {
+  font-weight: 400;
+  font-family: dejanire-headline, serif;
   font-style: normal;
-  font-weight: 300;
 }
-
+h1,
+.h1 {
+  font-size: 2em;
+}
 body {
   font-family: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
@@ -12098,21 +12100,6 @@ button:focus {
   outline: none !important;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5 {
-  line-height: 1.5;
-  font-weight: 400;
-  font-family: "Poppins", Arial, sans-serif;
 }
 
 .ftco-section {

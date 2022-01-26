@@ -1,15 +1,9 @@
 .seccion {
   padding: 30px 0;
 }
-
-.seccion .texto {
-  font-size: 14px;
-}
-
 .seccion .texto.vertical {
   padding-bottom: 30px;
 }
-
 @media (min-width: 768px) {
   .seccion .texto.vertical {
     padding-bottom: 0;
@@ -17,32 +11,24 @@
     width: calc(100% - 30px);
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-            transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
   }
 }
-
 .seccion .texto p:last-of-type {
   margin: 0;
 }
-
 .seccion .texto .titulo {
   text-align: center;
-  font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px !important;
 }
-
 .seccion .texto .subtitulo {
   text-align: center;
-  font-size: 16px;
   font-weight: 600;
 }
-
 .seccion .imagen {
   height: 260px;
 }
-
 .seccion .imagen img {
   width: auto;
   height: auto;
@@ -54,45 +40,36 @@
   border-radius: 10px;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .cabecera {
   padding: 100px 0;
   background-color: #fafafa;
 }
-
 .cabecera .subtitulo {
   font-weight: 400 !important;
-  font-size: 17px !important;
 }
-
 .cabecera .contenedor_boton {
   text-align: center;
   margin-top: 30px;
 }
-
 .cabecera .contenedor_boton .b_contacto {
   padding: 10px 20px;
   background-color: #3d4153;
   color: #fff;
   text-decoration: none;
-  font-size: 18px;
   border-radius: 20px;
 }
 
 .proyectos, .urbanismo, .simulacion, .diseno {
   text-align: center !important;
 }
-
 .proyectos p:last-of-type, .urbanismo p:last-of-type, .simulacion p:last-of-type, .diseno p:last-of-type {
   margin-bottom: 20px !important;
 }
-
 .proyectos a, .urbanismo a, .simulacion a, .diseno a {
   padding: 10px 20px;
-  font-size: 16px;
   border-radius: 20px;
   background-color: #3d4153;
   color: #fff;
@@ -101,20 +78,16 @@
 .clientes {
   padding: 60px 0;
 }
-
 .clientes .cliente {
   position: relative;
   height: 100px;
   margin-bottom: 10px;
 }
-
 .clientes .cliente img {
   max-width: 80%;
   max-height: 80%;
   position: absolute;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-}
-/*# sourceMappingURL=index.css.map */
+  transform: translate(-50%, -50%);
+}/*# sourceMappingURL=index.css.map */

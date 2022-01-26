@@ -1,11 +1,9 @@
 .seccion .texto {
   font-size: 14px;
 }
-
 .seccion .texto.vertical {
   padding-bottom: 30px;
 }
-
 @media (min-width: 768px) {
   .seccion .texto.vertical {
     padding-bottom: 0;
@@ -13,35 +11,28 @@
     width: calc(100% - 30px);
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-            transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
   }
 }
-
 .seccion .texto p:last-of-type {
   margin: 0;
 }
-
 .seccion .texto .titulo {
   text-align: center;
   font-size: 28px;
   font-weight: 600;
 }
-
 .seccion .texto .subtitulo {
   text-align: center;
   font-size: 16px;
   font-weight: 600;
 }
-
 .seccion .owl-carousel {
   margin-top: 46px;
 }
-
 .seccion .owl-carousel .owl-stage-outer .owl-item {
   height: 260px;
 }
-
 .seccion .owl-carousel .owl-stage-outer .owl-item img {
   width: auto;
   height: auto;
@@ -53,8 +44,7 @@
   border-radius: 10px;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .cabecera {
@@ -65,7 +55,6 @@
 .introduccion {
   padding: 30px 0;
 }
-
 .introduccion .texto {
   font-size: 16px;
 }
@@ -73,7 +62,6 @@
 .manos_robot {
   min-height: 350px;
 }
-
 @media (max-width: 767px) {
   .manos_robot {
     padding: 30px 0;
@@ -83,7 +71,6 @@
 .utiles_control {
   min-height: 350px;
 }
-
 @media (max-width: 767px) {
   .utiles_control {
     padding: 30px 0;
@@ -94,7 +81,6 @@
   padding: 0 0 30px;
   min-height: 350px;
 }
-
 @media (max-width: 767px) {
   .maquinas_corte_montaje {
     padding: 30px 0;
@@ -104,24 +90,19 @@
 .proveedores {
   padding: 30px 0;
 }
-
 .proveedores .titulo {
   margin-bottom: 30px !important;
 }
-
 .proveedores .proveedor {
   position: relative;
   height: 100px;
   margin-bottom: 10px;
 }
-
 .proveedores .proveedor img {
   max-width: 80%;
   max-height: 80%;
   position: absolute;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-}
-/*# sourceMappingURL=diseno_mecanico.css.map */
+}/*# sourceMappingURL=diseno_mecanico.css.map */

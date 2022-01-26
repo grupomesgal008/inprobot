@@ -54,18 +54,41 @@ h2,
 h3,
 h4,
 h5,
+h6,
 .h1,
 .h2,
 .h3,
 .h4,
-.h5 {
+.h5,
+.h6 {
   font-weight: 400;
   font-family: dejanire-headline, serif;
   font-style: normal;
+  color: #3d4153;
 }
 h1,
 .h1 {
   font-size: 2em;
+}
+h2,
+.h2 {
+  font-size: 1.5em;
+}
+h3,
+.h3 {
+  font-size: 1.17em;
+}
+h4,
+.h4 {
+  font-size: 1em;
+}
+h5,
+.h5 {
+  font-size: .83em;
+}
+h6,
+.h6 {
+  font-size: .67em;
 }
 body {
   font-family: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI",
@@ -73,6 +96,7 @@ body {
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   background-color: #fff;
   position: relative;
+  color: #777777;
 }
 
 body:before {
@@ -12261,13 +12285,13 @@ button:focus {
   color: #000;
 }
 
-.work .text span {
+/* .work .text span {
   font-size: 12px;
   letter-spacing: 1px;
   color: rgba(0, 0, 0, 0.3);
   text-transform: uppercase;
   font-weight: 500;
-}
+} */
 
 .work:hover .img .icon {
   opacity: 1;

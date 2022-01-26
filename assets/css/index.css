@@ -19,12 +19,10 @@
 }
 .seccion .texto .titulo {
   text-align: center;
-  font-weight: 600;
   margin-bottom: 30px !important;
 }
 .seccion .texto .subtitulo {
   text-align: center;
-  font-weight: 600;
 }
 .seccion .imagen {
   height: 260px;
@@ -46,9 +44,6 @@
 .cabecera {
   padding: 100px 0;
   background-color: #fafafa;
-}
-.cabecera .subtitulo {
-  font-weight: 400 !important;
 }
 .cabecera .contenedor_boton {
   text-align: center;

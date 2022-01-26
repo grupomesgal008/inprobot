@@ -6,7 +6,7 @@
     <div class="seccion cabecera">
         <div class="col-12">
             <div class="texto">
-                <p class="titulo">DISEÑO MECÁNICO</p>
+                <h1 class="titulo">DISEÑO MECÁNICO</h1>
             </div>
         </div>
     </div>
@@ -24,7 +24,7 @@
         <div class="row seccion manos_robot">
             <div class="col-md-6">
                 <div class="texto vertical">
-                    <p class="subtitulo">MANOS DE ROBOT</p>
+                    <h2 class="subtitulo">MANOS DE ROBOT</h2>
                     <p>Diseñamos y fabricamos manos de robot con la estructura en aluminio y todos los componentes de primera calidad. Además, tienen un diseño flexible, dotando todas las pinzas y ventosas de libertad de movimientos en los tres ejes lo que permite realizar los últimos ajustes necesarios en máquina.</p>
                 </div>
             </div>
@@ -55,7 +55,7 @@
         <div class="row seccion utiles_control">
             <div class="col-md-6 order-md-3">
                 <div class="texto vertical">
-                    <p class="subtitulo">ÚTILES DE CONTROL</p>
+                    <h2 class="subtitulo">ÚTILES DE CONTROL</h2>
                     <p>Diseño y fabricación de útiles y calibres de control necesarios para la medición y control dimensional de las piezas.</p>
                 </div>
             </div>
@@ -77,7 +77,7 @@
         <div class="row seccion maquinas_corte_montaje">
             <div class="col-md-6">
                 <div class="texto vertical">
-                    <p class="subtitulo">MÁQUINAS DE CORTE Y MONTAJE</p>
+                    <h2 class="subtitulo">MÁQUINAS DE CORTE Y MONTAJE</h2>
                     <p>Fabricación de máquinas de corte de colada y montaje con certificado CE.</p>
                 </div>
             </div>
@@ -111,7 +111,7 @@
         <div class="row seccion proveedores">
             <div class="col-12">
                 <div class="texto">
-                    <p class="titulo">Proveedores</p>
+                    <ph2 class="titulo">Proveedores</h2>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-lg-2 proveedor">

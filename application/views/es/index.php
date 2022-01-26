@@ -23,7 +23,7 @@
         <div class="row seccion proyectos">
             <div class="col-md-6">
                 <div class="texto vertical">
-                    <h4 class="subtitulo">PROYECTOS DE INGENIERÍA INDUSTRIAL</p>
+                    <h4 class="subtitulo">PROYECTOS DE INGENIERÍA INDUSTRIAL</h4>
                     <p>Descripción proyectos- calculo estructuras, calculo instalaciones industriales, eficiencia energética, marcado CE de máquinas, expedientes técnicos, certificados energéticos.</p>
                     <a href="<?php echo base_url(); ?>es/proyectos_industriales">Proyectos de ingeniería</a>
                 </div>
@@ -39,7 +39,7 @@
         <div class="row seccion urbanismo">
             <div class="col-md-6 order-md-3">
                 <div class="texto vertical">
-                    <h4 class="subtitulo">URBANISMO Y LICENCIAS</p>
+                    <h4 class="subtitulo">URBANISMO Y LICENCIAS</h4>
                     <p>Adecuación de locales, legalización industrial.</p>
                     <a href="<?php echo base_url(); ?>es/urbanismo_y_licencias">Licencias</a>
                 </div>
@@ -55,7 +55,7 @@
         <div class="row seccion simulacion">
             <div class="col-md-6">
                 <div class="texto vertical">
-                    <h4 class="subtitulo">SIMULACIÓN DE INCENDIOS</p>
+                    <h4 class="subtitulo">SIMULACIÓN DE INCENDIOS</h4>
                     <p>Diseño prestacional de sistema de control de humos.</p>
                     <a href="<?php echo base_url(); ?>es/fds">FDS</a>
                 </div>

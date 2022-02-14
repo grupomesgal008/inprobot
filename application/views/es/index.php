@@ -8,8 +8,8 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
                     <div class="texto">
-                        <p class="titulo">E&P<br>ESTUDIOS&nbsp;Y&nbsp;GESTIÓN DE PROYECTOS&nbsp;INDUSTRIALES&nbsp;SL</p>
-                        <p class="subtitulo">Nuestra ingeniería situada en Jaén está presente en todas las fases de los proyectos. Licencias iniciales necesarias, asesoramiento, proyecto, pliego de contratación, coordinación de seguridad y salud y dirección de obra</p>
+                        <h1 class="titulo">E&P<br>ESTUDIOS&nbsp;Y&nbsp;GESTIÓN DE PROYECTOS&nbsp;INDUSTRIALES&nbsp;SL</p>
+                        <h3 class="subtitulo">Nuestra ingeniería situada en Jaén está presente en todas las fases de los proyectos. Licencias iniciales necesarias, asesoramiento, proyecto, pliego de contratación, coordinación de seguridad y salud y dirección de obra</h3>
                     </div>
                     <div class="contenedor_boton">
                         <a href="<?php echo base_url(); ?>es/contacto" class="b_contacto">Contacta con nosotros</a>
@@ -23,7 +23,7 @@
         <div class="row seccion proyectos">
             <div class="col-md-6">
                 <div class="texto vertical">
-                    <p class="subtitulo">PROYECTOS DE INGENIERÍA INDUSTRIAL</p>
+                    <h4 class="subtitulo">PROYECTOS DE INGENIERÍA INDUSTRIAL</h4>
                     <p>Descripción proyectos- calculo estructuras, calculo instalaciones industriales, eficiencia energética, marcado CE de máquinas, expedientes técnicos, certificados energéticos.</p>
                     <a href="<?php echo base_url(); ?>es/proyectos_industriales">Proyectos de ingeniería</a>
                 </div>
@@ -39,7 +39,7 @@
         <div class="row seccion urbanismo">
             <div class="col-md-6 order-md-3">
                 <div class="texto vertical">
-                    <p class="subtitulo">URBANISMO Y LICENCIAS</p>
+                    <h4 class="subtitulo">URBANISMO Y LICENCIAS</h4>
                     <p>Adecuación de locales, legalización industrial.</p>
                     <a href="<?php echo base_url(); ?>es/urbanismo_y_licencias">Licencias</a>
                 </div>
@@ -55,7 +55,7 @@
         <div class="row seccion simulacion">
             <div class="col-md-6">
                 <div class="texto vertical">
-                    <p class="subtitulo">SIMULACIÓN DE INCENDIOS</p>
+                    <h4 class="subtitulo">SIMULACIÓN DE INCENDIOS</h4>
                     <p>Diseño prestacional de sistema de control de humos.</p>
                     <a href="<?php echo base_url(); ?>es/fds">FDS</a>
                 </div>
@@ -71,7 +71,7 @@
         <div class="row seccion diseno">
             <div class="col-md-6 order-md-3">
                 <div class="texto vertical">
-                    <p class="subtitulo">DISEÑO MECÁNICO</p>
+                    <h4 class="subtitulo">DISEÑO MECÁNICO</h4>
                     <p>Especializado en plástico con diseño y construcción de manos de extracción de robot, máquinas de montaje y corte, útiles de control.</p>
                     <a href="<?php echo base_url(); ?>es/diseno_mecanico">Diseño</a>
                 </div>

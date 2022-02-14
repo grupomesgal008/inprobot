@@ -74,8 +74,6 @@
 	<link rel="icon" type="image/png" href="<?php echo base_url() ?>assets/img/favicon32.png" sizes="64x64"> -->
 <!-- JQuery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<!-- Fontawesome -->
-<script src="https://kit.fontawesome.com/b22df7fc9e.js" crossorigin="anonymous"></script>
 <!-- Scripts -->
 
 

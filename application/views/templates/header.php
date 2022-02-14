@@ -19,7 +19,8 @@
 	<!-- jQuery CDN -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 	<!-- Font Awesome JS -->
-	<script src="https://kit.fontawesome.com/b22df7fc9e.js" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/5a716431ef.js" crossorigin="anonymous"></script>
+
 	<!-- Scripts -->
 	<script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>
 
